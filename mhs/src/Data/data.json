@@ -1,0 +1,118 @@
+[
+  {
+    "question": "What is the output of the following code: console.log(typeof NaN);?",
+    "options": ["number", "string", "undefined", "object"],
+    "answer": 0,
+    "store":false
+  },
+  {
+    "question": "Which built-in method combines the text of two strings and returns a new string?",
+    "options": ["append()", "concat()", "attach()", "combine()"],
+    "answer": 1,
+  "store":false
+  },
+  {
+    "question": "Which HTML attribute is used to define inline styles?",
+    "options": ["class", "style", "font", "styles"],
+    "answer": 1,
+    "store":false
+  },
+  {
+    "question": "Which CSS property is used to change the background color?",
+    "options": ["background-color", "color", "bgcolor", "bg-color"],
+    "answer": 0,
+    "store":false
+  },
+  {
+    "question": "What is the output of the following code: console.log(2 + '2');?",
+    "options": ["4", "22", "NaN", "undefined"],
+    "answer": 1,
+    "store":false
+  },
+  {
+    "question": "Which JavaScript method is used to write HTML output?",
+    "options": [
+      "document.write()",
+      "console.log()",
+      "window.alert()",
+      "document.alert()"
+    ],
+    "answer": 0,
+    "store":false
+
+  },
+  {
+    "question": "How can you add a comment in JavaScript?",
+    "options": [
+      "<!-- This is a comment -->",
+      "// This is a comment",
+      "' This is a comment",
+      "# This is a comment"
+    ],
+    "answer": 1,
+    "store":false
+  },
+  {
+    "question": "Which method can be used to round a number to the nearest integer in JavaScript?",
+    "options": ["Math.round()", "Math.ceil()", "Math.floor()", "Math.abs()"],
+    "answer": 0,
+    "store":false
+  },
+  {
+    "question": "Which of the following is not a JavaScript data type?",
+    "options": ["Number", "String", "Boolean", "Float"],
+    "answer": 3,
+    "store":false
+  },
+  {
+    "question": "What is the correct way to write a JavaScript array?",
+    "options": [
+      "var colors = 1 = ('red'), 2 = ('green'), 3 = ('blue')",
+      "var colors = ['red', 'green', 'blue']",
+      "var colors = (1:'red', 2:'green', 3:'blue')",
+      "var colors = 'red', 'green', 'blue'"
+    ],
+    "answer": 1,
+    "store":false
+  },
+  {
+    "question": "Which company developed JavaScript?",
+    "options": ["Microsoft", "Netscape", "Sun Microsystems", "IBM"],
+    "answer": 1,
+    "store":false
+  },
+  {
+    "question": "How do you create a function in JavaScript?",
+    "options": [
+      "function myFunction()",
+      "function:myFunction()",
+      "function = myFunction()",
+      "def myFunction()"
+    ],
+    "answer": 0,
+    "store":false
+  },
+  {
+    "question": "Which event occurs when the user clicks on an HTML element?",
+    "options": ["onchange", "onmouseclick", "onclick", "onmouseover"],
+    "answer": 2,
+    "store":false
+  },
+  {
+    "question": "Which symbol is used for comments in CSS?",
+    "options": ["//", "#", "/* */", "<!-- -->"],
+    "answer": 2,
+    "store":false
+  },
+  {
+    "question": "Which of the following is correct about features of JavaScript?",
+    "options": [
+      "JavaScript is a lightweight, interpreted programming language",
+      "JavaScript is designed for creating network-centric applications",
+      "JavaScript is complementary to and integrated with Java",
+      "All of the above"
+    ],
+    "answer": 3,
+    "store":false
+  }
+]
